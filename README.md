@@ -7,7 +7,7 @@ I am a Developer with a lot of experience in Django.
 - 👯 I’m looking to collaborate on Django Projects
 - 📫 How to reach me: [contactvivekhere@gmail.com](mailto:contactvivekhere@gmail.com)
 
-## Find me around the web 🌍
+## Find me on 🌍
 
 - [LinkedIn](https://www.linkedin.com/in/vivek-kumar-singh-5117711ab/)
 - [Twitter](https://twitter.com/vivekthedev)
@@ -23,6 +23,7 @@ I am a Developer with a lot of experience in Django.
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 <!---
