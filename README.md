@@ -1,6 +1,7 @@
 # Hello, I am Vivek 👋
+<img src="https://i.ibb.co/gjxqLJv/Black-and-White-Statue-Dark-Trendy-Greeting-Generic-Halloween-Twitter-Header.png" border="0"/>
 
-I am a Developer with a lot of experience in Django. 
+I am a Developer with experience in Django. 
 
 - 🔭 I’m currently working on my Django Projects
 - 🌱 I’m currently learning React, Blockchain with Python
