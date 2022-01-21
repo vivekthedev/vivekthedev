@@ -1,5 +1,5 @@
 # Hello, I am Vivek 👋
-<img src="https://i.ibb.co/gjxqLJv/Black-and-White-Statue-Dark-Trendy-Greeting-Generic-Halloween-Twitter-Header.png" border="0"/>
+<img src="https://i.ibb.co/gjxqLJv/Black-and-White-Statue-Dark-Trendy-Greeting-Generic-Halloween-Twitter-Header.png" style="width:100%;"/>
 
 I am a Developer with experience in Django. 
 
