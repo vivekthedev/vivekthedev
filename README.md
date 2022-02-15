@@ -4,7 +4,7 @@
 I am a Developer with experience in Django. 
 
 - 🔭 I’m currently working on my Django Projects
-- 🌱 I’m currently learning React, Blockchain with Python
+- 🌱 I’m currently learning React, Node.
 - 👯 I’m looking to collaborate on Django Projects
 - 📫 How to reach me: [contactvivekhere@gmail.com](mailto:contactvivekhere@gmail.com)
 
