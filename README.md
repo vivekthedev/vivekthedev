@@ -8,6 +8,11 @@ I am a Developer with experience in Django.
 - 👯 I’m looking to collaborate on Django Projects
 - 📫 How to reach me: [contactvivekhere@gmail.com](mailto:contactvivekhere@gmail.com)
 
+## Recent Article
+- https://birdeatsbug.com/blog/step-by-step-guide-to-use-graphql-with-django
+- https://medium.com/me/stats/post/962f51b002ba?source=main_stats_page
+- https://medium.com/me/stats/post/8d5bb2db447c?source=main_stats_page
+
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
