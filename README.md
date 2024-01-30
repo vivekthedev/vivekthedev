@@ -1,11 +1,9 @@
 # Hello, I am Vivek 👋
-<img src="https://i.ibb.co/gjxqLJv/Black-and-White-Statue-Dark-Trendy-Greeting-Generic-Halloween-Twitter-Header.png" style="width:100%;"/>
+<img src="https://imgur.com/a/gB49cBn" style="width:100%;"/>
 
-I am a Developer with experience in Django. 
-
-- 🔭 I’m currently working on my Django Projects
-- 🌱 I’m currently learning React, Node.
-- 👯 I’m looking to collaborate on Django Projects
+- Working with Python and Django.
+- Familiar in Svelte and Sveltekit
+- Occasionally write tech blogs. 
 - 📫 How to reach me: [contactvivekhere@gmail.com](mailto:contactvivekhere@gmail.com)
 
 ## Recent Articles
