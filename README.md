@@ -1,5 +1,5 @@
 # Hello, I am Vivek 👋
-<img src="https://imgur.com/a/gB49cBn" style="width:100%;"/>
+<img src="https://i.imgur.com/OEhylEB.png" style="width:100%;"/>
 
 - Working with Python and Django.
 - Familiar in Svelte and Sveltekit
